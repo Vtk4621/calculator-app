@@ -23,9 +23,11 @@ Uvicorn
 ＜backend＞
 
 pip install fastapi uvicorn pydantic
+
 python main.py
 
 ＜frontend＞
 
 npm install
+
 npm run dev
