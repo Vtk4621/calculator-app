@@ -18,16 +18,17 @@ Python
 Uvicorn
 
 リポジトリをクローンして使ってください。
+
 ・セットアップ
 
 ＜backend＞
 
-pip install fastapi uvicorn pydantic
+1.pip install fastapi uvicorn pydantic
 
-python main.py
+2.python main.py
 
 ＜frontend＞
 
-npm install
+1.npm install
 
-npm run dev
+2.npm run dev
